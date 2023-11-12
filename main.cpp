@@ -93,5 +93,7 @@ int main() {
 
     cout<<"Hello from Ukraine!!!";
 
+    cout<<"test №2";
+
     return 0;
 }
